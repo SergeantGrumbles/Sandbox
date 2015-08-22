@@ -1,8 +1,10 @@
-# Created by https://www.gitignore.io/api/gradle
-
-### Gradle ###
+*.iml
+.idea
 .gradle
+gradle/
 build/
+gradlew.*
+gradlew
 
 # Ignore Gradle GUI config
 gradle-app.setting
