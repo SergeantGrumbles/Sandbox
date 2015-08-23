@@ -37,7 +37,7 @@ You can execute all the current Grunt tasks once using:
 $ grunt
 ```
 
-Start a grunt watch task using. This will automatically copy files across to the deployed localhost instance as you make changes to them.
+Start a grunt watch task using the following. This will automatically copy files across to the deployed localhost instance as you make changes to them.
 
 ```sh
 $ grunt watch
