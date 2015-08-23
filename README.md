@@ -1,16 +1,17 @@
 # Sandbox WebApp
 
-This is a sandbox web app using spring boot. It includes the files required for getting up and runnig with Node, Grunt and the some of the more common Grunt taks such as watch and JSHint.
+This is a sandbox web app using spring boot. It includes the files required for getting up and running with Node, Grunt and the some of the more common Grunt taks such as watch and JSHint.
 
 ### Version
 0.0.1
 
 ### Tech
 
-It's using a number of open source projects to work properly:
-* [node.js] - evented I/O for the backend
-* [Grunt] - fast node.js network app framework [@tjholowaychuk]
-* [Spring-boot] - the streaming build system
+It's using a number of open source projects to make development faster and easier:
+* [node.js] - https://nodejs.org/download/
+* [npm] - https://www.npmjs.com/
+* [Grunt] - https://www.npmjs.com/package/grunt
+* [Spring-boot] - http://projects.spring.io/spring-boot/
 
 ### Installation
 
@@ -25,7 +26,7 @@ To get started with Node, make sure you have it installed and from the root dire
 ```sh
 $ npm install
 
-You canm execute all the current Grunt tasks once using:
+You can execute all the current Grunt tasks once using:
 
 ```sh
 $ grunt
