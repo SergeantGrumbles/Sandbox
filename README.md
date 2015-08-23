@@ -15,7 +15,7 @@ It's using a number of open source projects to make development faster and easie
 
 ### Installation
 
-To fire up the spring boot application, from the root directory exute
+To fire up the spring boot application, from the root directory execute
 
 ```sh
 $ bootRun
