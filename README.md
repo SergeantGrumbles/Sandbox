@@ -45,4 +45,6 @@ $ grunt watch
 
 ### Development
 
-This is just for making things easy.
+Start following this guide and switch over to gulp:
+
+https://blog.engineyard.com/2014/frontend-dependencies-management-part-1
